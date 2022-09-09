@@ -9,7 +9,15 @@ programa
 		escreva("digite o número: ")
 		leia(numero)
 
-		
+		se (n>= 0 ){
+			qtd++	
+			}
+			soma = soma + n
+			mídia = soma / qt
+			escreva ( "\nQuantidade: " ,qtd)
+			escreva ( "\nSoma: " ,soma)
+			escreva ( "\nmedia: " , media)
+			}
 		
 			
 		}
