@@ -1,10 +1,11 @@
 programa
 {
-	inclua biblioteca Matematica-->mat
+	inclua biblioteca Matematica-- mat
 	
 	funcao inicio()
 	{
-		real filhes, salario, cont=0, maiorsalario=0, mediasalario=0, mediafilhes=0
+		
+real filhes, salario, cont=0, maiorsalario=0, mediasalario=0, mediafilhes=0
 
 			para(real i=0;i<5;i++)
 			escreva("digite seu salário ")
